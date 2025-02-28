@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
+  base: "/Login-Signup"
 })
 // import { defineConfig } from 'vite'
 // import react from '@vitejs/plugin-react'
